@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 550 309" enable-background="new 0 0 550 309" xml:space="preserve">
+<defs>
+<g id="bg">
+	<rect fill="#0E1741" width="550" height="309"/>
+</g>
+<g id="box">
+	<polygon fill="#00B4EB" points="255.2,0 153.8,0 0,0 0,153.8 0,234.1 21.1,234.1 275.6,234.1 275.6,0 	"/>
+	<rect fill="#FFFFFF" width="275.6" height="4.5"/>
+</g>
+<g id="glare">
+	<g>
+		<polygon opacity="0.44" fill="#FFFFFF" points="335.4,0 275.6,0 275.6,0 229.6,0 229.6,0 229.2,0 59.7,169.5 59.7,169.9 0,229.6
+	59.7,229.6 59.7,229.6 105.8,229.6 105.8,229.6 106.1,229.6 275.6,60.1 275.6,59.8 "/>
+	</g>
+</g>
+<g id="disc-shadow">
+	<path fill="#0E1741" d="M184.6,53.9L184.6,53.9c-8.4-17.6-21.7-32.1-40.1-41.8l0,0C130.6,4.4,114.5,0,97.5,0C43.6,0,0,43.6,0,97.5
+		c0,16,3.9,31,10.7,44.3l0,0c0.2,0.3,0.3,0.6,0.5,0.9c8.8,16.8,22.4,30.7,39,40c0.3,0.1,0.5,0.3,0.8,0.4l0,0
+		c13.8,7.6,29.7,11.8,46.6,11.8c53.8,0,97.5-43.6,97.5-97.5C194.9,81.8,191.2,67,184.6,53.9z"/>
+</g>
+<g id="disc">
+	<g>
+		<g>
+			<circle fill="#FFCE04" cx="97.5" cy="97.5" r="97.5"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M99.1,92.9"/>
+		</g>
+		<g>
+			<path fill="#B78D16" d="M142,52.9c-24.6-24.6-64.6-24.6-89.2,0c-24.6,24.6-24.6,64.6,0,89.2c24.6,24.6,64.6,24.6,89.2,0
+				C166.7,117.4,166.7,77.5,142,52.9z"/>
+		</g>
+		<g>
+			<g>
+				<circle fill="#FFCE04" cx="97.7" cy="97.6" r="32"/>
+			</g>
+			<g>
+				<g>
+					<path fill="#0E1741" d="M129.3,65.6c-17.6-17.6-46.1-17.6-63.7,0s-17.6,46.1,0,63.7s46.1,17.6,63.7,0
+						C146.9,111.7,146.9,83.2,129.3,65.6z M120.4,120.3c-12.5,12.5-32.8,12.5-45.3,0c-12.5-12.5-12.5-32.8,0-45.3
+						c12.5-12.5,32.8-12.5,45.3,0S132.9,107.8,120.4,120.3z"/>
+				</g>
+			</g>
+		</g>
+		<g opacity="0.5">
+			<g>
+				<path fill="#FFFFFF" d="M184.7,53.9c-8.4-17.5-21.7-32.1-40.1-41.8L97.5,97.9L184.7,53.9z"/>
+			</g>
+		</g>
+		<g opacity="0.5">
+			<g>
+				<path fill="#FFFFFF" d="M10.7,141.8c9.1,17.2,22.3,31.3,40.2,41.3l46.6-84.9L10.7,141.8z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path fill="#FFFFFF" d="M184.1,77.7c-0.6,0-1.1-0.4-1.2-1c-12-46.8-57.8-63.7-58.3-63.8c-0.7-0.2-1-1-0.8-1.6
+						c0.2-0.7,1-1,1.6-0.8c0.5,0.2,47.5,17.5,59.9,65.6c0.2,0.7-0.2,1.4-0.9,1.6C184.3,77.7,184.2,77.7,184.1,77.7z"/>
+				</g>
+				<g>
+					<path fill="#FFFFFF" d="M174.3,74.9c-0.6,0-1.1-0.4-1.2-1c-9.6-37.3-46-50.7-46.4-50.8c-0.7-0.2-1-1-0.8-1.6
+						c0.2-0.7,1-1,1.6-0.8c0.4,0.1,38.1,14,48,52.6c0.2,0.7-0.2,1.4-0.9,1.6C174.5,74.9,174.4,74.9,174.3,74.9z"/>
+				</g>
+				<g>
+					<path fill="#FFFFFF" d="M165.3,74.3c-0.5,0-1.1-0.4-1.2-0.9c-8.7-29.1-36.6-40.3-36.9-40.4c-0.7-0.3-1-1-0.7-1.7s1-1,1.7-0.7
+						c0.3,0.1,29.4,11.8,38.4,42.1c0.2,0.7-0.2,1.4-0.9,1.6C165.6,74.3,165.4,74.3,165.3,74.3z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#FFCE04" d="M150.6,78.8c-0.5,0-1.1-0.4-1.2-0.9c-6.6-22.1-27.9-30.7-28.1-30.8c-0.7-0.3-1-1-0.7-1.7
+						c0.3-0.7,1-1,1.7-0.7c0.9,0.4,22.6,9.1,29.6,32.4c0.2,0.7-0.2,1.4-0.9,1.6C150.9,78.7,150.7,78.8,150.6,78.8z"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<path fill="#FFFFFF" d="M71,184.2c-0.1,0-0.3,0-0.4-0.1c-0.5-0.2-47.8-16.7-60.9-64.6c-0.2-0.7,0.2-1.4,0.9-1.6
+						c0.7-0.2,1.4,0.2,1.6,0.9c12.8,46.6,58.8,62.7,59.3,62.9c0.7,0.2,1,1,0.8,1.6C72,183.9,71.5,184.2,71,184.2z"/>
+				</g>
+				<g>
+					<path fill="#FFFFFF" d="M68.8,174.1c-0.1,0-0.3,0-0.4-0.1c-0.4-0.1-38.3-13.4-48.9-51.8c-0.2-0.7,0.2-1.4,0.9-1.6
+						c0.7-0.2,1.4,0.2,1.6,0.9c10.2,37.1,46.9,49.9,47.2,50.1c0.7,0.2,1,1,0.8,1.6C69.9,173.7,69.4,174.1,68.8,174.1z"/>
+				</g>
+				<g>
+					<path fill="#FFFFFF" d="M68.1,164.2c-0.1,0-0.3,0-0.4-0.1c-0.3-0.1-29.5-11.3-39.1-41.4c-0.2-0.7,0.2-1.4,0.8-1.6
+						c0.7-0.2,1.4,0.2,1.6,0.8c9.2,29,37.3,39.7,37.6,39.8c0.7,0.2,1,1,0.8,1.6C69.1,163.9,68.6,164.2,68.1,164.2z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#FFCE04" d="M73.7,150c-0.1,0-0.3,0-0.4-0.1c-0.9-0.3-22.8-8.7-30.1-31.9c-0.2-0.7,0.2-1.4,0.8-1.6
+						c0.7-0.2,1.4,0.2,1.6,0.8c7,22,28.4,30.2,28.6,30.3c0.7,0.2,1,1,0.7,1.6C74.7,149.7,74.2,150,73.7,150z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+
+	<g id="rotator">
+		<circle fill="#FFCE04" cx="9.2" cy="9.2" r="9.2"/>
+		<path fill="#FFFFFF" d="M2.7,15.8c3.6,3.6,9.5,3.6,13.1,0L2.7,2.7C-0.9,6.3-0.9,12.2,2.7,15.8z"/>
+	</g>
+
+<g id="bar">
+	<rect fill="#FFCE04" width="20" height="5"/>
+</g>
+<g id="hand">
+	<path fill="#0E1741" d="M53.7,3.4c-4.5-4.5-11.9-4.5-16.5,0c-4.5,4.5-4.5,11.9,0,16.5c1.5,1.5,3.2,2.4,5,3v29.5l-26.5,35l-2.5-1.9
+		L0,103l10.2,7.7l13.2-17.5l-2.5-1.9l27.8-36.7V22.8c1.8-0.5,3.6-1.5,5-3C58.2,15.3,58.2,8,53.7,3.4z"/>
+</g>
+<g id="star">
+<polygon fill="#FFFFFF" points="17.8,18.5 30,16 17.9,12.8 15.4,0 12.2,12.7 0,15.2 12.1,18.3 14.6,31.2 "/>
+</g>
+</defs>
+<use xlink:href="#box"/>
+	<g transform="translate(14,14)">
+	<use xlink:href="#rotator">
+		<animateTransform attributeName="transform" type="rotate" dur="2s" values="0 9.25 9.25;360 9.25 9.25" repeatCount="indefinite"/>
+	</use>
+	</g>
+	<g transform="translate(14,46)">
+	<use xlink:href="#rotator">
+		<animateTransform attributeName="transform" type="rotate" dur="2s" values="0 9.25 9.25;360 9.25 9.25" repeatCount="indefinite" begin=".25"/>
+	</use>
+	</g>
+	<g transform="translate(0,4.465)">
+	<use xlink:href="#glare">
+	<animateTransform attributeName="transform" type="translate" dur="6.5s" fill="freeze" values="335,0;-335,0" repeatCount="indefinite"/>
+	</use>
+	</g>
+	<use x="33" y="29" xlink:href="#disc-shadow"/>
+	<g transform="translate(40,19)">
+	<use xlink:href="#disc">
+	<animateTransform attributeName="transform" type="rotate" dur="2s" values="0 97 97;360 97 97" repeatCount="indefinite"/>
+	</use>
+	</g>
+	<g transform="translate(260, 0)">
+	<g transform="translate(0,205)">
+	<use xlink:href="#bar"/>
+	<animateTransform attributeName="transform" type="scale" dur=".5s" values="-1 1;-2 1;-.2 1;-1.4 1" repeatCount="indefinite" additive="sum"/>
+	</g>
+	<g transform="translate(0,217)">
+	<use xlink:href="#bar"/>
+	<animateTransform attributeName="transform" type="scale" dur=".5s" values="-1 1;-1.2 1;-1 1" repeatCount="indefinite" additive="sum"/>
+	</g>
+	</g>
+	<use x="201" y="49" xlink:href="#hand"/>
+	<g transform="translate(94,67)">
+	<use xlink:href="#star">
+	<animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 14.995 15.5;360 14.995 15.5" repeatCount="0" begin="0s;fadestar3.end"/>
+	<animate id="fadestar1" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="0s;fadestar3.end" fill="freeze"/>
+	</use>
+	</g>
+	<g transform="translate(165,148) scale(.58,.58)">
+	<use xlink:href="#star" visibility="hidden">
+	<set attributeName="visibility" from="hidden" to="visible" begin="fadestar1.end" />
+	<animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 14.995 15.5;360 14.995 15.5" repeatCount="0" begin="fadestar1.end-.25"/>
+	<animate id="fadestar2" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" fill="freeze" begin="fadestar1.end-.25"/>
+	</use>
+	</g>
+	<g transform="translate(188,29)">
+	<use xlink:href="#star" visibility="hidden">
+	<set attributeName="visibility" from="hidden" to="visible" begin="fadestar2.end" />
+	<animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 14.995 15.5;360 14.995 15.5" repeatCount="0" begin="fadestar2.end-.25"/>
+	<animate id="fadestar3" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" fill="freeze" begin="fadestar2.end-.25"/>
+	</use>
+	</g>
+</svg>
