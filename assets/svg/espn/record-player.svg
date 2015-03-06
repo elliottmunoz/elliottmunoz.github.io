@@ -117,7 +117,12 @@
 <g id="star">
 <polygon fill="#FFFFFF" points="17.8,18.5 30,16 17.9,12.8 15.4,0 12.2,12.7 0,15.2 12.1,18.3 14.6,31.2 "/>
 </g>
+<clipPath id="icon-clip">
+      <rect x="0" y="0" width="275" height="234" />
+</clipPath>
 </defs>
+<rect id="rectangle" x="0" y="0" height="309" width="550" fill="#0e1741" />
+<g id="icon-main" transform="translate(137,38)">
 <use xlink:href="#box"/>
 	<g transform="translate(14,14)">
 	<use xlink:href="#rotator">
@@ -129,9 +134,9 @@
 		<animateTransform attributeName="transform" type="rotate" dur="2s" values="0 9.25 9.25;360 9.25 9.25" repeatCount="indefinite" begin=".25"/>
 	</use>
 	</g>
-	<g transform="translate(0,4.465)">
+	<g transform="translate(0,4.465)" clip-path="url(#icon-clip)">
 	<use xlink:href="#glare">
-	<animateTransform attributeName="transform" type="translate" dur="6.5s" fill="freeze" values="335,0;-335,0" repeatCount="indefinite"/>
+	<animateTransform attributeName="transform" type="translate" dur="6.5s" fill="freeze" values="300,0;-325,0" repeatCount="indefinite"/>
 	</use>
 	</g>
 	<use x="33" y="29" xlink:href="#disc-shadow"/>
@@ -150,7 +155,11 @@
 	<animateTransform attributeName="transform" type="scale" dur=".5s" values="-1 1;-1.2 1;-1 1" repeatCount="indefinite" additive="sum"/>
 	</g>
 	</g>
-	<use x="201" y="49" xlink:href="#hand"/>
+	<g transform="translate(201,49)">
+	<use xlink:href="#hand">
+		<animateTransform attributeName="transform" type="rotate" dur="20" values="-10 45 11;15 45 11;-10 45 11" repeatCount="indefinite"/>
+	</use>
+	</g>
 	<g transform="translate(94,67)">
 	<use xlink:href="#star">
 	<animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 14.995 15.5;360 14.995 15.5" repeatCount="0" begin="0s;fadestar3.end"/>
@@ -171,4 +180,5 @@
 	<animate id="fadestar3" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" fill="freeze" begin="fadestar2.end-.25"/>
 	</use>
 	</g>
+</g>
 </svg>
