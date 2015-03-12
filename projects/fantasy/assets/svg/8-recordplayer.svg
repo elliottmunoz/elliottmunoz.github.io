@@ -143,6 +143,7 @@
 	<g transform="translate(40,19)">
 	<use xlink:href="#disc">
 	<animateTransform attributeName="transform" type="rotate" dur="2s" values="0 97 97;360 97 97" repeatCount="indefinite"/>
+
 	</use>
 	</g>
 	<g transform="translate(260, 0)">

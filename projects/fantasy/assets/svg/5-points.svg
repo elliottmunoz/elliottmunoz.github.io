@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 550 309" enable-background="new 0 0 550 309" xml:space="preserve">
+  <defs>
+    <rect id="bg" x="0" y="0" height="309" width="550" fill="#0e1741" />
+    <g id="balls">
+      <g>
+        <circle fill="#00B4EB" cx="71" cy="10" r="10" />
+        <circle fill="#00B4EB" cx="85" cy="20" r="10" />
+        <circle fill="#FFCE04" cx="73" cy="27" r="10" />
+        <circle fill="#FFCE04" cx="50" cy="42" r="10" />
+        <circle fill="#00B4EB" cx="74" cy="67" r="10" />
+        <circle fill="#00B4EB" cx="61" cy="55" r="10" />
+        <circle fill="#00B4EB" cx="108" cy="72" r="10" />
+        <circle fill="#FFCE04" cx="104" cy="57" r="10" />
+        <circle fill="#00B4EB" cx="95" cy="42.9" r="10" />
+        <circle fill="#FFCE04" cx="74" cy="49" r="10" />
+        <circle fill="#FFCE04" cx="84" cy="37" r="10" />
+        <circle fill="#00B4EB" cx="86" cy="55" r="10" />
+        <circle fill="#FFCE04" cx="92" cy="69" r="10" />
+        <circle fill="#FFCE04" cx="57" cy="68" r="10" />
+        <circle fill="#00B4EB" cx="26" cy="37" r="10" />
+        <circle fill="#FFCE04" cx="95" cy="29" r="10" />
+        <circle fill="#FFCE04" cx="36" cy="42" r="10" />
+        <circle fill="#FFCE04" cx="21" cy="52" r="10" />
+        <circle fill="#00B4EB" cx="110" cy="35" r="10" />
+        <circle fill="#FFCE04" cx="132" cy="72" r="10" />
+        <circle fill="#00B4EB" cx="127" cy="55" r="10" />
+        <circle fill="#FFCE04" cx="111" cy="50" r="10" />
+        <circle fill="#00B4EB" cx="120" cy="60" r="10" />
+        <circle fill="#FFCE04" cx="120" cy="75" r="10" />
+        <circle fill="#00B4EB" cx="10" cy="73" r="10" />
+        <circle fill="#FFCE04" cx="18" cy="66" r="10" />
+        <circle fill="#00B4EB" cx="31" cy="56" r="10" />
+		<circle fill="#00B4EB" cx="48" cy="28" r="10" />
+		<circle fill="#00B4EB" cx="61" cy="22" r="10" />
+		<circle fill="#00B4EB" cx="65" cy="38" r="10" />
+        <circle fill="#FFCE04" cx="48" cy="71" r="10" />
+        <circle fill="#FFCE04" cx="44" cy="56" r="10" />
+        <circle fill="#00B4EB" cx="35" cy="72" r="10" />
+        <circle fill="#FFCE04" cx="24" cy="82" r="10" />
+      </g>
+    </g>
+    <circle id="gold-ball" fill="#FFCE04" cx="0" cy="0" r="10" />
+    <circle id="blue-ball" fill="#00B4EB" cx="0" cy="0" r="10" />
+    <g id="trophy">
+      <g>
+        <g>
+          <path fill="#FFCE04" d="M152.8,65.4l3.4,3.4c-0.9,7.7,3.6,11.4,10,12.1c5.9,0.7,9.3-2.5,10.5-8.3c3.5,3,4.5,11.7-4.7,15.4l0,0
+				c-7.8,3.8-21.1,5.7-30.4,14.4c-15.7,14.7,0.5,27.6,9,22.5c8.4-5.1,2.8-12.3,2.8-12.3c-0.4,3.8-8.4,4.4-8.8-0.3
+				c0.4-19.2,46.5-8.9,45.5-36.3C189.1,50.1,161.4,56,152.8,65.4z" />
+        </g>
+        <g>
+          <g>
+            <g>
+              <path fill="#00B4EB" d="M37.4,66.3l-3.5,3.3c0.8,7.7-3.7,11.4-10,12c-5.9,0.6-9.3-2.7-10.4-8.4c-3.6,3-4.7,11.6,4.4,15.5l0,0
+						c7.7,3.9,21,6,30.1,14.8c15.5,14.9-1,27.5-9.3,22.3s-2.9-12.3-2.9-12.3c0.4,3.8,8.6,4.5,9.1-0.2c-0.1-19.2-46.3-9.6-44.9-37
+						C1.4,50.3,29,56.7,37.4,66.3z" />
+            </g>
+          </g>
+        </g>
+        <g>
+          <path fill="#DDC966" d="M127.5,115l-1.9-0.8l-0.2,1.9C126,115.8,126.7,115.4,127.5,115z" />
+          <path fill="#FFCE04" d="M126.6,117.1c6.7-3.6-4.6-14.6,3.5-19.2l-4.6,16.3l-30.4-11.9v0L62.8,115c11,5.5,18,14.4,21,23.4
+				c5.2,15.7-1.6,31.9-21,31.9l11,4.2l23.7-2.9l18.5,4.4l11.5-7.4C106.3,168.7,99.7,131.7,126.6,117.1z" />
+        </g>
+        <g>
+          <path fill="#FFCE04" d="M168.7,44.4c2.3-11.2,2.9-18.9,2.9-18.9S147,0,95.1,0C43.2,0,18.6,25.5,18.6,25.5s0.6,7.7,2.9,18.9
+				c7.9-6.5,31.9-22.9,73.6-22.9S160.9,37.9,168.7,44.4z" />
+          <path fill="#FFCE04" d="M95.1,125.8c49.9,0,67.6-52.3,73.6-81.4c-7.9-6.5-31.9-22.9-73.6-22.9S29.4,37.9,21.5,44.4
+				C27.5,73.5,45.3,125.8,95.1,125.8z" />
+          <g>
+            <path fill="#00B4EB" d="M33.1,38c-9.4,4.4-8.2,3.7-11.6,6.5c6,29.1,23.4,82.4,73.8,81.4C53.2,116,42,74.9,33.1,38z" />
+          </g>
+        </g>
+        <g>
+          <path fill="#00B4EB" d="M167.2,51.2c0.4-1.9,1.3-5.7,1.7-7.5c-7.9-6.5-32.1-22.3-73.8-22.3S29.4,37.9,21.5,44.4
+				c0.4,1.7,6.8,8.1,7.3,10c8.9-7,26.6-26.6,66.4-26.6S158.3,44.2,167.2,51.2z" />
+        </g>
+        <rect x="62.8" y="168.7" fill="#FFCE04" width="64.7" height="10.1" />
+        <path fill="#FFFFFF" d="M171.6,25.5C159.7,14.8,137.1,0,95.1,0v0l0,0C53.2,0,30.5,14.8,18.6,25.5c0,0,0.2,3.3,0.9,7.4
+			c0,0,29.3-26.1,76.2-26.3c46.9,0.2,75.1,26.3,75.1,26.3C171.4,28.8,171.6,25.5,171.6,25.5z" />
+        <path fill="#00B4EB" d="M75.5,121.2l-2.2,1.1c0,0,26.1,28.3-0.7,46.4h-10v10.1h32.3V172v-3.3v-42.9
+			C95.1,125.8,84.2,124.8,75.5,121.2z" />
+      </g>
+    </g>
+        <circle id="star-base" fill="#E83D3D" cx="34.7" cy="34.7" r="34.7" />
+        <polygon id="star" fill="#FFFFFF" points="35.2,13.3 41.7,26.4 56.2,28.5 45.7,38.7 48.2,53.1 35.2,46.3 22.3,53.1 24.7,38.7 14.3,28.5
+			28.7,26.4 		" />
+  </defs>
+  <use xlink:href="#bg" />
+  <g id="droppers">
+  	<g transform="translate(311,-10)">
+    <use xlink:href="#blue-ball" />
+    <animateTransform id="drop-1" attributeName="transform" type="translate" dur="1s" fill="freeze" values="0,0;0,100" repeatCount="indefinite" additive="sum"/>
+  </g>
+  <g transform="translate(238,-10)">
+    <use xlink:href="#gold-ball"/>
+    <animateTransform id="drop-2" attributeName="transform" type="translate" dur="1s" fill="freeze" values="0,0;0,100" repeatCount="indefinite" begin="drop-1.begin + .35" additive="sum"/>
+  </g>
+  <g transform="translate(281,-10)">
+    <use xlink:href="#gold-ball" />
+    <animateTransform id="drop-3" attributeName="transform" type="translate" dur="1s" fill="freeze" values="0,0;0,100" repeatCount="indefinite" begin="drop-2.begin + .35" additive="sum"/>
+  </g>
+</g>
+  <g transform="translate(206,45)">
+    <use xlink:href="#balls" />
+  </g>
+  <g transform="translate(180,110)">
+    <use xlink:href="#trophy" />
+  </g>
+<g transform="translate(240,148)">
+  <g transform="translate(35,35)">
+    <g>
+      <use xlink:href="#star-base" x="-35" y="-35">
+        <animateTransform attributeType="xml" attributeName="transform" type="scale" values="1 1;1.03 1.03;1 1" dur="1" fill="freeze" repeatCount="indefinite" additive="sum"/>
+      </use>
+      <use xlink:href="#star" x="-35" y="-35">
+        <animateTransform attributeType="xml" attributeName="transform" type="scale" values="1 1;1.13 1.13;1 1" dur="1" fill="freeze" repeatCount="indefinite" additive="sum"/>
+        <!--
+        <animateTransform id="spinner" attributeName="transform" type="rotate" dur="2" values="-5 0 0;5 0 0;-5 0 0" repeatCount="indefinite" additive="sum"/>
+        -->
+      </use>
+    </g>
+  </g>
+</g>
+
+</svg>
