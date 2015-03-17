@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 550 309" enable-background="new 0 0 550 309" xml:space="preserve">
+<defs>
+<rect id="bg" x="0" y="0" height="309" width="550" fill="#0e1741" />
+<g id="cloud">
+  <path fill="#E83D3D" d="M187.5,57.7L187.5,57.7L187.5,57.7c0.4-8.1-6-15-14.5-16.4c-2.2-7.1-9-12.5-17.3-12.8
+    c-1.3-0.1-2.6,0-3.8,0.2c-1.4-11.4-11.4-20.5-23.9-21c-4.4-0.2-8.5,0.7-12.2,2.5c-1.9-1.9-4.7-3.1-7.4-3.2
+    c-2.1-0.1-4.1,0.6-5.6,1.8C97,3.7,89.3,0.4,80.7,0C66.8-0.5,54.5,7,48.8,18.1c-1.8-0.9-3.9-1.4-6.1-1.5
+    c-8.2-0.3-15.1,5.7-15.4,13.4c0,0.5,0,1,0,1.5c-2.9-0.3-6.5,0.7-8.3,6.6c0,0-19,4.5-19,22.1c0.1,17.1,21.9,25.3,37,19.6
+    c5.5,6,11,3.3,11,3.3s4.6,2.1,10.8,2.5c1,3,4.3,6.8,14.6,6.7c15.4-0.2,11.4,33,11.4,55.5h8.4h8.4c0-22.5-3.8-54.3,11.4-52.1
+    c6.6,1,11.2-6.4,11.2-6.4c9,1.2,12.4-3.3,13.7-6.2c10.1-0.3,14.8-6.8,14.8-6.8c6.5,3.5,11.8-1.8,11.8-1.8S186.6,75.8,187.5,57.7
+    C187.5,57.7,187.5,57.7,187.5,57.7C187.5,57.7,187.5,57.7,187.5,57.7z"/>
+</g>
+<g id="cloud-top">
+  <g>
+    <path fill="#FDC935" d="M22.7,32.8c-7.3-1.6-8.6,5-8.6,5c2.4-0.2,4.8-0.2,4.8-0.2S-2.3,44.2,0.2,59.3c2,12.4,17.4,11.9,22.8,11.3
+      c-2.8-10.1,3.9-16.9,3.9-16.9s-1.9,6.8,0.6,12.5c1.3,2.4,3.5,4.9,6.9,6.4c1.8,0.7,3.9,1.2,6.6,1.3c7,0.2,12-2.2,15.2-4.4
+      c-2.6-4.8-4.8-13.3,3.2-23.8c0,0-8,26.5,24.8,27.8c5.5,0.2,9.9-0.1,13.5-0.6c-5.5-3-7.8-8.6-7.8-8.6c22.1,12.9,34.5-7.7,34.5-7.7
+      s0.5,10.1-8.7,15.4c2.6,0.9,6.2,1.6,11,1.8c12.6,0.5,17.9-6.3,17-11.7c0,0,2.2,3.4,1.4,7.5c0,0,14.2,1,12.4-13.9
+      c0,0,4,5.5,0.9,12.4c0,0,15.8,3.4,20.3-10.2c0.4-8.1-6-15-14.5-16.4c-2.2-7.1-9-12.5-17.3-12.8c-1.3-0.1-2.6,0-3.8,0.2
+      c-1.4-11.4-11.4-20.5-23.9-21c-4.4-0.2-8.5,0.7-12.2,2.5c-1.9-1.9-4.7-3.1-7.4-3.2c-2.1-0.1-4.1,0.6-5.6,1.8
+      c-5.7-5.2-13.4-8.5-22-8.8C57.9-0.5,45.6,7,39.9,18.1c-1.8-0.9-3.9-1.4-6.1-1.5c-8.2-0.3-15.1,5.7-15.4,13.4c0,0.5,0,1,0,1.5
+      C20.8,31.8,22.7,32.8,22.7,32.8z"/>
+    <polygon fill="#FDC935" points="178.6,57.7 178.6,57.7 178.6,57.7    "/>
+  </g>
+</g>
+<g id="explosion">
+  <g>
+    <polygon fill="#E83D3D" points="126.2,118.3 117.7,98.9 107.8,59.1 117.2,33.3 93.4,44.2 107.2,10.5 76.1,34.6 66.8,17.8
+      60.1,31.7 21.5,0 36.9,43.6 12.7,34.5 26.5,66.7 0,119 19.8,121.2 14.5,144 45,132.4 60,146.7 74.6,136.2 113,159.9 105.9,127.4
+          "/>
+    <g>
+      <polygon fill="#FDC935" points="91,101.5 85.6,93.3 94.8,85.3 83.7,80.7 93.5,59.6 81.7,60.5 83,46 69.6,56.3 66.2,49.3
+        62.7,56.3 49.4,46 50.6,60.5 38.8,59.6 48.6,80.7 37.5,85.3 46.7,93.3 42,98.8 47,104.4 40.6,118 52.7,114.1 52.7,120.2
+        66.2,110.9 79.6,120.2 79.6,114.1 91.7,118 85.1,103.8      "/>
+      <rect x="65.2" y="103.8" fill="#FDC935" width="0" height="0"/>
+    </g>
+  </g>
+</g>
+<g id="right-cloud-small">
+  <path fill="#FDC935" d="M15.1,2c-1.9-2.3-5.4-2.6-7.7-0.7C7.3,1.4,7.2,1.5,7,1.6C5.4,0.5,3.2,0.4,1.6,1.8C-0.3,3.3-0.5,6.1,1,7.9
+    c0.6,0.7,1.3,1.2,2.2,1.4c-0.5,1-0.3,2.3,0.4,3.2c1.1,1.3,3,1.5,4.4,0.4c0.7-0.6,1.1-1.5,1.1-2.4c1.7,0.6,3.8,0.3,5.3-0.9
+    C16.7,7.7,17,4.3,15.1,2z"/>
+  <g>
+    <rect x="0" y="0" fill="#FDC935" width="0" height="0"/>
+  </g>
+</g>
+<g id="left-cloud-small">
+  <path fill="#FDC935" d="M35.8,10.5c0-3.9-3.2-7.1-7.1-7.1c-2.2,0-4.2,1-5.5,2.6C21,2.4,17,0,12.5,0C5.6,0,0,5.6,0,12.5
+    C0,19.4,5.6,25,12.5,25c0.4,0,0.9,0,1.3-0.1c1.1,4.4,5,7.6,9.8,7.6c5.6,0,10.1-4.5,10.1-10c0-2.1-0.6-4-1.7-5.7
+    C34.2,15.7,35.8,13.3,35.8,10.5z"/>
+</g>
+<g id="right-fist">
+  <g>
+    <g>
+      <polygon fill="#00B4EB" points="76.4,15.8 53.6,0 0,10.7 0,51.1 10.6,55.2 22.2,50.9 20.7,54.9 32.7,55.9 41.3,47.9 62.3,42.6
+        89.6,37.4 89.6,12       "/>
+      <polygon fill="#0E1741" points="26.4,34.1 20.1,30.3 18.2,22.1 17.3,30.2 7.6,40.8 17,35.5 22.5,39 10.4,52.8 0,51.1 10.6,57.5
+        22.2,50.9 27.4,37.9 38.5,31 42.2,28.8       "/>
+      <rect x="89.6" y="8.6" fill="#00B4EB" width="9.9" height="29"/>
+      <rect x="89.6" y="8.6" fill="#FFFFFF" width="9.9" height="4.8"/>
+      <polygon fill="#FFFFFF" points="89.6,16.9 76.4,16.9 76.9,12 89.6,12       "/>
+      <polygon fill="#0E1741" points="97.2,19.7 94.5,22.4 91.8,19.7 94.5,17 94.5,19.7       "/>
+      <polygon fill="#0E1741" points="97.2,30.6 94.5,33.4 91.8,30.6 94.5,27.9 94.5,30.6       "/>
+      <polygon fill="#FFFFFF" points="53.6,0 0,10.7 0,33.4 4.2,14.4 52.8,4.7 72.6,15.9 73.9,10.4      "/>
+    </g>
+    <polygon fill="#0E1741" points="89.6,37.5 89.6,34.2 89.6,12 87.3,12 84.7,34.2 74.8,34.1 76.9,12 73.9,10.4 67.9,36.4 41.3,43.7
+      32,54.1 20.7,54.9 32.3,59.7 40.8,52.7 62.3,42.6 89.6,42.6 89.6,46 99.5,46 99.5,37.5     "/>
+  </g>
+</g>
+<g id="right-flame">
+  <g>
+  <path fill="#E83D3D" d="M0,7.7c0,8.8,12.5,10.9,34.9,0C12-3.9,0-1.1,0,7.7z"/>
+  <path fill="#FDC935" d="M3.1,7.8c0,3.6,5.6,4.5,15.7,0C8.5,3,3.1,4.1,3.1,7.8z"/>
+  </g>
+</g>
+<g id="left-fist">
+  <g>
+    <g>
+      <polygon fill="#00B4EB" points="23.1,15.8 45.9,0 99.5,10.7 99.5,51.1 88.9,55.2 77.3,50.9 78.9,54.9 66.8,55.9 58.2,47.9
+        37.2,42.6 9.9,37.4 9.9,12       "/>
+      <polygon fill="#0E1741" points="73.1,34.1 79.5,30.3 81.3,22.1 82.3,30.2 91.9,40.8 82.6,35.5 77,39 89.1,52.8 99.5,51.1
+        88.9,57.5 77.3,50.9 72.2,37.9 61,31 57.3,28.8       "/>
+      <rect x="0" y="8.6" fill="#00B4EB" width="9.9" height="29"/>
+      <rect x="0" y="8.6" fill="#FFFFFF" width="9.9" height="4.8"/>
+      <polygon fill="#FFFFFF" points="9.9,16.9 23.1,16.9 22.7,12 9.9,12       "/>
+      <polygon fill="#0E1741" points="2.3,19.7 5,22.4 7.8,19.7 5,17 5,19.7      "/>
+      <polygon fill="#0E1741" points="2.3,30.6 5,33.4 7.8,30.6 5,27.9 5,30.6      "/>
+      <polygon fill="#FFFFFF" points="45.9,0 99.5,10.7 99.5,33.4 95.4,14.4 46.7,4.7 26.9,15.9 25.7,10.4       "/>
+    </g>
+    <polygon fill="#0E1741" points="9.9,37.5 9.9,34.2 9.9,12 12.3,12 14.8,34.2 24.7,34.1 22.7,12 25.7,10.4 31.6,36.4 58.3,43.7
+      67.6,54.1 78.9,54.9 67.3,59.7 58.7,52.7 37.2,42.6 9.9,42.6 9.9,46 0,46 0,37.5     "/>
+  </g>
+</g>
+<g id="left-flame">
+  <path fill="#E83D3D" d="M34.9,7.4c0-8.8-12.5-10.9-34.9,0C22.9,19,34.9,16.3,34.9,7.4z"/>
+  <path fill="#FDC935" d="M31.8,7.4c0-3.6-5.6-4.5-15.7,0C26.4,12.1,31.8,11,31.8,7.4z"/>
+</g>
+</defs>
+<!--fistbump-->
+<use xlink:href="#bg" />
+<g>
+  <g transform="translate(272,104)" visibility="hidden">
+    <set attributeName="visibility" from="hidden" to="visible" begin="pound.end-.5" />
+    <g transform="translate(-94,-74)">
+      <use xlink:href="#cloud"/>
+      <use xlink:href="#cloud-top" x="8.894">
+        <animate attributeName="opacity" values="0;1" dur="1s" repeatCount="0" fill="freeze" begin="pound.end-.75"/>
+      </use>
+    </g>
+    <animateTransform attributeType="xml" attributeName="transform" type="translate" values="0 100;0 0" dur=".45s" fill="freeze" repeatCount="1" additive="sum" begin="pound.end-.75"/>
+    <animateTransform attributeName="transform" type="scale" dur=".45s" values="0 0;1 1" repeatCount="1" begin="pound.end-.75" additive="sum"/>
+  </g>
+</g>
+<g transform="translate(267,204)">
+  <use xlink:href="#explosion" visibility="hidden" x="-63" y="-80">
+  <set attributeName="visibility" from="hidden" to="visible" begin="pound.end-.5" />
+  <animateTransform attributeType="xml" attributeName="transform" type="scale" values="0 0;1 1; 1.4 1.4;1 1" dur=".55" fill="freeze" repeatCount="1" additive="sum"/>
+  </use>
+</g>
+<g transform="translate(190,147)">
+  <use xlink:href="#left-cloud-small" visibility="hidden" x="-18" y="-16">
+    <set attributeName="visibility" from="hidden" to="visible" begin="pound.end-.75"/>
+    <animate attributeName="opacity" values="0;1" dur="2s" repeatCount="0" fill="freeze" begin="pound.end-.75"/>
+    <animateTransform attributeType="xml" attributeName="transform" type="translate" values="100 50;0 0" dur=".65s" fill="freeze" repeatCount="1" additive="sum" begin="pound.end-.75"/>
+    <animateTransform attributeName="transform" type="rotate" dur=".65s" values="-360 0 0;0 0 0" repeatCount="1" additive="sum" begin="pound.end-.75"/>
+    <animateTransform attributeName="transform" type="scale" dur=".45s" values="0 0;1 1" repeatCount="1" begin="pound.end-.75" additive="sum"/>
+  </use>
+</g>
+<g transform="translate(340,160)">
+  <use xlink:href="#right-cloud-small" visibility="hidden" x="-8" y="-7">
+    <set attributeName="visibility" from="hidden" to="visible" begin="pound.end-.75"/>
+    <animate attributeName="opacity" values="0;1" dur="2s" repeatCount="0" fill="freeze" begin="pound.end-.75"/>
+    <animateTransform attributeType="xml" attributeName="transform" type="translate" values="-100 30;0 0" dur=".65s" fill="freeze" repeatCount="1" additive="sum" begin="pound.end-.75"/>
+    <animateTransform attributeName="transform" type="rotate" dur=".65s" values="-360 0 0;0 0 0" repeatCount="1" additive="sum" begin="pound.end-.75"/>
+    <animateTransform attributeName="transform" type="scale" dur=".45s" values="0 0;1 1" repeatCount="1" begin="pound.end-.75" additive="sum"/>
+  </use>
+</g>
+<g transform="translate(-100,176)">
+  <use xlink:href="#left-fist">
+    <animateTransform id="pound" attributeName="transform" type="translate" dur=".8s" fill="freeze" values="0,0;273,0;264,0;268,0" repeatCount="1"/>
+  </use>
+</g>
+<g transform="translate(-120, 199.5)">
+  <use xlink:href="#left-flame" x="-17.5" y="-7.5">
+    <animateTransform attributeName="transform" type="translate" dur=".8s" fill="freeze" values="0,0;270,0;261,0;264,0" repeatCount="1" additive="sum"/>
+    <animateTransform attributeName="transform" type="scale" dur=".5s" values="1 1;1.2 1.1;1 1" repeatCount="3" additive="sum"/>
+  </use>
+</g>
+<g transform="translate(550,176)">
+  <use xlink:href="#right-fist">
+    <animateTransform attributeName="transform" type="translate" dur=".8s" fill="freeze" values="0,0;-280,0;-271,0;-274,0" repeatCount="1"/>
+  </use>
+</g>
+<g transform="translate(708,199.5)">
+  <use xlink:href="#right-flame" x="-17.5" y="-7.5">
+    <animateTransform attributeName="transform" type="translate" dur=".8s" fill="freeze" values="0,0;-314,0;-305,0;-308,0" repeatCount="1"/>
+    <animateTransform attributeName="transform" type="scale" dur=".5s" values="1 1;1.2 1.1;1 1" repeatCount="3" additive="sum"/>
+  </use>
+</g>
+
+
+</svg>
