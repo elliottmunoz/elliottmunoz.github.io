@@ -7,7 +7,7 @@
 <g id="finger-blue">
 	<g>
 
-			<rect x="-26.9" y="166.6" transform="matrix(8.356788e-03 -1 1 8.356788e-03 -142.6755 217.2624)" fill="#00B4EB" width="130.2" height="27.9"/>
+		<rect x="-26.9" y="166.6" transform="matrix(8.356788e-03 -1 1 8.356788e-03 -142.6755 217.2624)" fill="#00B4EB" width="130.2" height="27.9"/>
 		<polygon fill="#B78D16" points="56.7,0 50.3,38.1 0.4,47.2 0,96.3 9.4,104.6 12.8,124.2 64.4,124.6 67.2,104.9 76,96.2 76.8,0.2
 					"/>
 		<polygon fill="#FFCE04" points="15,101.9 18.4,118.2 50.3,118.4 52.8,102.2 70,92.2 70.3,56.2 56,52.8 35.1,67.1 43.6,74.2
@@ -63,43 +63,48 @@
 		<rect x="24.9" y="124.5" opacity="0.33" fill="#0E1741" width="9.2" height="164.1"/>
 	</g>
 </g>
-<polygon id="star" fill="#FFFFFF" points="13.7,14.1 23,12 13.7,9.8 11.5,0 9.3,9.8 0,11.9 9.3,14.1 11.5,23.9 "/>
+<polygon id="star" fill="#FFFFFF" points="13.7,14.2 23,12 13.7,9.8 11.5,0 9.3,9.8 0,12 9.3,14.2 11.5,24 "/>
 </defs>
 <use xlink:href="#bg" />
 <g transform="translate(43,162)">
-  <use xlink:href="#star">
-    <animateTransform id="atr-star-1" attributeName="transform" type="rotate" dur=".6s" values="0 11.5 12;360 11.5 12" repeatCount="0" begin="0s"/>
-    <animate id="ato-star-1" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="0s;fadestar3.end" fill="freeze"/>
+  <use xlink:href="#star" id="star1a">
+    <animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 11.5 12;360 11.5 12" repeatCount="0" begin="0s;fadestar3b.end-.25"/>
+    <animate id="fadestar1a" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="0s;fadestar3b.end-.25" fill="freeze"/>
   </use>
 </g>
 <g transform="translate(74,91)">
-  <use xlink:href="#star">
-    <animateTransform id="atr-star-2" attributeName="transform" type="rotate" dur=".6s" values="0 11.5 12;360 11.5 12" repeatCount="0" begin="0s"/>
-    <animate id="ato-star-2" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="0s;fadestar3.end" fill="freeze"/>
+  <use xlink:href="#star" id="star3a" visibility="hidden">
+    <set attributeName="visibility" from="hidden" to="visible" begin="fadestar2b.end" />
+    <animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 11.5 12;360 11.5 12" repeatCount="0" begin="fadestar2b.end-.25"/>
+    <animate id="fadestar2a" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="fadestar2b.end-.25" fill="freeze"/>
   </use>
 </g>
 <g transform="translate(175,96)">
-  <use xlink:href="#star">
-    <animateTransform id="atr-star-3" attributeName="transform" type="rotate" dur=".6s" values="0 11.5 12;360 11.5 12" repeatCount="0" begin="atr-star-1.begin+.25"/>
-    <animate id="ato-star-3" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="atr-star-1.begin+.25" fill="freeze"/>
+  <use xlink:href="#star" id="star2a" visibility="hidden">
+  	<set attributeName="visibility" from="hidden" to="visible" begin="fadestar1b.end" />
+    <animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 11.5 12;360 11.5 12" repeatCount="0" begin="0s;fadestar1b.end-.25"/>
+    <animate id="fadestar2a" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="fadestar1b.end-.25" fill="freeze"/>
   </use>
 </g>
 <g transform="translate(253,48)">
-  <use xlink:href="#star">
-    <animateTransform id="atr-star-4" attributeName="transform" type="rotate" dur=".6s" values="0 11.5 12;360 11.5 12" repeatCount="0" begin="0s"/>
-    <animate id="ato-star-4" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="0s;fadestar3.end" fill="freeze"/>
+  <use xlink:href="#star" id="star1b">
+    <animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 11.5 12;360 11.5 12" repeatCount="0" begin="0s;fadestar3b.end-.25"/>
+    <animate id="fadestar1b" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="0s;fadestar3b.end-.25" fill="freeze"/>
   </use>
 </g>
 <g transform="translate(351,96)">
-  <use xlink:href="#star">
-    <animateTransform id="atr-star-5" attributeName="transform" type="rotate" dur=".6s" values="0 11.5 12;360 11.5 12" repeatCount="0" begin="0s"/>
-    <animate id="ato-star-5" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="0s;fadestar3.end" fill="freeze"/>
+  <use xlink:href="#star" id="star3b" visibility="hidden">
+    <set attributeName="visibility" from="hidden" to="visible" begin="fadestar2b.end" />
+    <animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 11.5 12;360 11.5 12" repeatCount="0" begin="fadestar2b.end-.25"/>
+    <animate id="fadestar3b" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="fadestar2b.end-.25" fill="freeze"/>
+
   </use>
 </g>
 <g transform="translate(478,148)">
-  <use xlink:href="#star">
-    <animateTransform id="atr-star-6" attributeName="transform" type="rotate" dur=".6s" values="0 11.5 12;360 11.5 12" repeatCount="0" begin="0s"/>
-    <animate id="ato-star-6" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="0s;fadestar3.end" fill="freeze"/>
+  <use xlink:href="#star" id="star2b" visibility="hidden">
+    <set attributeName="visibility" from="hidden" to="visible" begin="fadestar1b.end" />
+    <animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 11.5 12;360 11.5 12" repeatCount="0" begin="0s;fadestar1b.end-.25"/>
+    <animate id="fadestar2b" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="fadestar1b.end-.25" fill="freeze"/>
   </use>
 </g>
 <g transform="translate(285,78) scale(-1,1) rotate(54, 36, 245)">
