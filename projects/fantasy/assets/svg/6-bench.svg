@@ -99,12 +99,12 @@
 </g>
 <g transform="translate(81,76)">
   <use xlink:href="#left-wing">
-  	<animateTransform id="" attributeName="transform" type="rotate" dur="2.3s" values="8 57 24;-2 57 24;-8 57 24;-2 57 24;8 57 24" repeatCount="indefinite" additive="sum"/>
+  	<animateTransform id="" attributeName="transform" type="rotate" dur="3.4s" values="8 57 24;-2 57 24;-8 57 24;-2 57 24;8 57 24" repeatCount="indefinite" additive="sum"/>
  </use>
 </g>
 <g transform="translate(389,76)">
   <use xlink:href="#right-wing">
-  	<animateTransform id="" attributeName="transform" type="rotate" dur="2.3s" values="-8 20 24;2 20 24;8 20 24;2 20 24;-8 20 24" repeatCount="indefinite" additive="sum"/>
+  	<animateTransform id="" attributeName="transform" type="rotate" dur="3.4s" values="-8 20 24;2 20 24;8 20 24;2 20 24;-8 20 24" repeatCount="indefinite" additive="sum"/>
  </use>
 </g>
 
