@@ -2,6 +2,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 550 309" enable-background="new 0 0 550 309" xml:space="preserve">
 <defs>
+<rect id="bg" x="0" y="0" height="309" width="550" fill="#0e1741" />
 <g id="trophy">
 	<path fill="#00B4EB" d="M49.3,48.5l14.8,50.2c-50.7,0-52.6-50.2-52.6-50.2H49.3 M57.5,37.5h-8.2H11.5H0l0.5,11.5
 		c0.1,1.5,0.8,15.5,8.7,29.9c7.7,14.1,23.4,30.9,55,30.9h14.7l-4.2-14.1L59.9,45.4L57.5,37.5L57.5,37.5z"/>
@@ -76,8 +77,13 @@
 <g id="teardrop">
 	<path fill="#FFFFFF" d="M8,0L8,0C8,0-9.9,33.3,8,33.3v0C25.8,33.3,8,0,8,0z"/>
 </g>
+<clipPath id="canvas">
+  <polygon points="550,309 0,309 0,0 550,0 "/>
+</clipPath>
 </defs>
-<rect id="rectangle" x="0" y="0" height="309" width="550" fill="#0e1741" />
+<!--sadtrophy-->
+<g id="3-sadtrophy" clip-path="url(#canvas)">
+<use xlink:href="#bg"/>
 <g transform="translate(108,53)">
 <use xlink:href="#trophy"/>
 </g>
@@ -96,5 +102,6 @@
 	<animateTransform attributeName="transform" type="rotate" dur="2s" values="6 54 17;-5 20 17; 6 54 17" repeatCount="indefinite" />
 	<animateTransform attributeName="transform" type="translate" dur="2s" fill="freeze" values="-20,-7;10,7;-20,-7" repeatCount="indefinite" additive="sum"/>
 </use>
+</g>
 </g>
 </svg>

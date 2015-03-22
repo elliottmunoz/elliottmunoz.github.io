@@ -405,8 +405,12 @@
     c-3.2,2.2-6.1,5-8.6,8.6c-1.9,2.7-3.4,5.9-4.6,9.8c0,0,4.2-12.4,22.3-12.4c11.7,0,24.9,10,36.7,0.8c0,0-0.5,0.7-1.5,1.6
     c4.7-3.3,4.9-8.9,0.9-13C108.2,82.3,118.1,85.6,116.2,99.4z"/>
 </clipPath>
+<clipPath id="canvas">
+  <polygon points="550,309 0,309 0,0 550,0 "/>
+</clipPath>
 </defs>
-<!-- Number TWO -->
+<!-- Number TWO-->
+<g id="10-numberTWO" clip-path="url(#canvas)">
 <use xlink:href="#bg" />
 <g id="medal" transform="translate(196,-2)">
 <g transform="translate(53,58)">
@@ -475,6 +479,5 @@
     <animate id="fadestar2b" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" begin="fadestar1b.end-.25" fill="freeze"/>
   </use>
 </g>
-
-
+</g>
 </svg>

@@ -86,7 +86,12 @@
         <circle id="star-base" fill="#E83D3D" cx="34.7" cy="34.7" r="34.7" />
         <polygon id="star" fill="#FFFFFF" points="35.2,13.3 41.7,26.4 56.2,28.5 45.7,38.7 48.2,53.1 35.2,46.3 22.3,53.1 24.7,38.7 14.3,28.5
 			28.7,26.4 		" />
-  </defs>
+  <clipPath id="canvas">
+    <polygon points="550,309 0,309 0,0 550,0 "/>
+  </clipPath>
+</defs>
+<!-- Points -->
+<g id="5-points" clip-path="url(#canvas)">
   <use xlink:href="#bg" />
   <g id="droppers">
   	<g transform="translate(311,-10)">
@@ -116,12 +121,9 @@
       </use>
       <use xlink:href="#star" x="-35" y="-35">
         <animateTransform attributeType="xml" attributeName="transform" type="scale" values="1 1;1.13 1.13;1 1" dur="1" fill="freeze" repeatCount="indefinite" additive="sum"/>
-        <!--
-        <animateTransform id="spinner" attributeName="transform" type="rotate" dur="2" values="-5 0 0;5 0 0;-5 0 0" repeatCount="indefinite" additive="sum"/>
-        -->
       </use>
     </g>
   </g>
 </g>
-
+</g>
 </svg>

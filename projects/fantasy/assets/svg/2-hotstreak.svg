@@ -137,8 +137,12 @@ Q -0.25 147.05 6.15 165.45 9.55 175.4 14.9 183.8 19.35 190.75 24.7 196 36 207.1 
 			C14.7,4.5,11.2,5,9.7,6.9z"/>
 	</g>
 </g>
+<clipPath id="canvas">
+  <polygon points="550,309 0,309 0,0 550,0 "/>
+</clipPath>
 </defs>
 <!-- Hot Streak -->
+<g id="2-hotstreak" clip-path="url(#canvas)">
 <use xlink:href="#bg" />
 <g id="flames" transform="translate(212,42)">
   <g id="red flame">
@@ -178,5 +182,6 @@ Q -0.25 147.05 6.15 165.45 9.55 175.4 14.9 183.8 19.35 190.75 24.7 196 36 207.1 
   </use>
 </g>
 <animateTransform attributeName="transform" type="translate" dur="2.3s" fill="freeze" values="0,-10;0,0;0,-10" repeatCount="indefinite" additive="sum"/>
+</g>
 </g>
 </svg>

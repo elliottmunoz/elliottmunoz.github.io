@@ -244,8 +244,12 @@
 <g id="star1">
   <polygon fill="#FFFFFF" points="6.2,5.7 9.9,3.3 5.5,3.9 3,0 3.7,4.6 0,7 4.4,6.4 6.9,10.3  "/>
 </g>
+<clipPath id="canvas">
+  <polygon points="550,309 0,309 0,0 550,0 "/>
+</clipPath>
 </defs>
 <!-- Baseball -->
+<g id="14-baseball" clip-path="url(#canvas)">
 <use xlink:href="#bg" />
 <g transform="translate(99,-50)">
   <use xlink:href="#left-spotlight">
@@ -265,9 +269,6 @@
 <g transform="translate(226,39)">
   <use xlink:href="#baseball">
     <animateTransform id="throwballin" attributeName="transform" type="translate" fill="freeze" dur=".3" values="350,0;75,0;0,0" begin="0;throwballout.end+1" repeatCount="0" additive="sum"/>
-    <!--
-    <animateTransform id="throwballout" attributeName="transform" type="translate" fill="freeze" dur=".3" values="0,0;-275,0;-350,0" repeatCount="0" begin="fadestar3.end+1" additive="sum"/>
-  -->
     <animateTransform id="spinball" attributeName="transform" type="rotate" dur=".3" values="270 48.9 49.1;0 48.9 49.1" repeatCount="0" begin="0s" additive="sum"/>
   </use>
 </g>
@@ -292,5 +293,6 @@
     <animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 9.15 9.5;360 9.15 9.5" repeatCount="0" begin="fadestar2.end-.25"/>
     <animate id="fadestar3" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" fill="freeze" begin="fadestar2.end-.25"/>
   </use>
+</g>
 </g>
 </svg>

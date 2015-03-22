@@ -165,8 +165,12 @@
   <path fill="#BC9C13" d="M0.7,33.6c-3.4,34.8,7.8,72.8,7.8,72.8v0C52.8,83.4,109.5,66.7,158,72.5c0,0,0,0,0,0
 			c-0.2-0.8-0.5-1.5-0.7-2.3c0,0,0-0.1,0-0.1C149.4,45.5,131.2,14,120.9,0v0C120.9,0,64.5-1.9,0.7,33.6z"/>
 </clipPath>
+<clipPath id="canvas">
+  <polygon points="550,309 0,309 0,0 550,0 "/>
+</clipPath>
 </defs>
 <!-- Number THREE -->
+<g id="11-numberTHREE" clip-path="url(#canvas)">
 <use xlink:href="#bg" />
 <g id="superbowlring" transform="translate(284.25,167)">
   <g id="thering" transform="translate(-102.5,-110)">
@@ -221,5 +225,6 @@
     <animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 11.8 12.25;360 11.8 12.25" repeatCount="0" begin="fadestar3.end-.25"/>
     <animate id="fadestar4" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" fill="freeze" begin="fadestar3.end-.25"/>
   </use>
+</g>
 </g>
 </svg>

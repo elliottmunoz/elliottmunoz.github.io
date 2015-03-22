@@ -97,9 +97,13 @@
   <path fill="#E83D3D" d="M34.9,7.4c0-8.8-12.5-10.9-34.9,0C22.9,19,34.9,16.3,34.9,7.4z"/>
   <path fill="#FDC935" d="M31.8,7.4c0-3.6-5.6-4.5-15.7,0C26.4,12.1,31.8,11,31.8,7.4z"/>
 </g>
+<clipPath id="canvas">
+  <polygon points="550,309 0,309 0,0 550,0 "/>
+</clipPath>
 </defs>
 <!--fistbump-->
-<use xlink:href="#bg" />
+<g id="1-fistbump" clip-path="url(#canvas)">
+<use xlink:href="#bg"/>
 <g>
   <g transform="translate(272,104)" visibility="hidden">
     <set attributeName="visibility" from="hidden" to="visible" begin="pound.end-.5" />
@@ -159,6 +163,5 @@
     <animateTransform attributeName="transform" type="scale" dur=".5s" values="1 1;1.2 1.1;1 1" repeatCount="3" additive="sum"/>
   </use>
 </g>
-
-
+</g>
 </svg>

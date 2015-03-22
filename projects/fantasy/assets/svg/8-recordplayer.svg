@@ -101,7 +101,6 @@
 		</g>
 	</g>
 </g>
-
 	<g id="rotator">
 		<circle fill="#FFCE04" cx="9.2" cy="9.2" r="9.2"/>
 		<path fill="#FFFFFF" d="M2.7,15.8c3.6,3.6,9.5,3.6,13.1,0L2.7,2.7C-0.9,6.3-0.9,12.2,2.7,15.8z"/>
@@ -120,7 +119,12 @@
 <clipPath id="icon-clip">
       <rect x="0" y="0" width="275" height="234" />
 </clipPath>
+<clipPath id="canvas">
+  <polygon points="550,309 0,309 0,0 550,0 "/>
+</clipPath>
 </defs>
+<!-- Record Player -->
+<g id="8-recordplayer" clip-path="url(#canvas)">
 <rect id="rectangle" x="0" y="0" height="309" width="550" fill="#0e1741" />
 <g id="icon-main" transform="translate(137,38)">
 <use xlink:href="#box"/>
@@ -181,5 +185,6 @@
 	<animate id="fadestar3" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" fill="freeze" begin="fadestar2.end-.25"/>
 	</use>
 	</g>
+</g>
 </g>
 </svg>

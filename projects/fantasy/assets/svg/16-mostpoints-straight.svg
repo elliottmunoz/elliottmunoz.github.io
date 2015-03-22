@@ -64,7 +64,12 @@
 	</g>
 </g>
 <polygon id="star" fill="#FFFFFF" points="13.7,14.2 23,12 13.7,9.8 11.5,0 9.3,9.8 0,12 9.3,14.2 11.5,24 "/>
+<clipPath id="canvas">
+  <polygon points="550,309 0,309 0,0 550,0 "/>
+</clipPath>
 </defs>
+<!-- Most Points -->
+<g id="16-mostpoints-straight" clip-path="url(#canvas)">
 <use xlink:href="#bg" />
 <g transform="translate(43,162)">
   <use xlink:href="#star" id="star1a">
@@ -110,43 +115,29 @@
 <g transform="translate(285,78) scale(-1,1) rotate(54, 36, 245)">
   <use xlink:href="#finger-blue" id="left-blue">
         <animateTransform id="drop-2" attributeName="transform" type="translate" dur="1" fill="freeze" values="0,-4;0,4;0,-4" repeatCount="indefinite" additive="sum"/>
-    <!--
-    <animateTransform id="atr-left-blue" attributeName="transform" type="rotate" dur="1.5" values="-20 36 245;20 36 245;-20 36 245" repeatCount="indefinite" begin="0" additive="sum"/>
--->
   </use>
 </g>
 
 <g transform="translate(265,78) rotate(54, 36, 245)">
   <use xlink:href="#finger-blue" id="right-blue">
     <animateTransform id="drop-2" attributeName="transform" type="translate" dur="1" fill="freeze" values="0,-4;0,4;0,-4" repeatCount="indefinite" additive="sum"/>
-  	<!--
-    <animateTransform id="atr-right-blue" attributeName="transform" type="rotate" dur="1.5" values="-20 36 245;20 36 245;-20 36 245" repeatCount="indefinite" begin="0" additive="sum"/>
--->
   </use>
 </g>
 <g transform="translate(282,81) scale(-1,1) rotate(18, 36, 245)">
 	<use xlink:href="#finger-white" id="left-white">
         <animateTransform id="drop-2" attributeName="transform" type="translate" dur="1" fill="freeze" values="0,-6;0,6;0,-6" repeatCount="indefinite" additive="sum"/>
-		<!--
-    <animateTransform id="atr-left-white" attributeName="transform" type="rotate" dur="1.5" values="-20 36 245;20 36 245;-20 36 245" repeatCount="indefinite" begin="0" additive="sum"/>
--->
   </use>
 </g>
 <g transform="translate(267,81) rotate(18, 36, 245)">
   <use xlink:href="#finger-white" id="right-white">
     <animateTransform id="drop-2" attributeName="transform" type="translate" dur="1" fill="freeze" values="0,-6;0,6;0,-6" repeatCount="indefinite" additive="sum"/>
-  	<!--
-    <animateTransform id="atr-right-white" attributeName="transform" type="rotate" dur="1.5" values="-20 36 245;20 36 245;-20 36 245" repeatCount="indefinite" begin="0" additive="sum"/>
--->
   </use>
 </g>
 <g transform="translate(235,41)">
   <use xlink:href="#finger-red">
     <animateTransform id="drop-2" attributeName="transform" type="translate" dur="1" fill="freeze" values="0,-8;0,8;0,-8" repeatCount="indefinite" additive="sum"/>
-  	<!--
-  <animateTransform id="" attributeName="transform" type="rotate" dur="1.5" values="-20 39 288;20 39 288;-20 39 288" repeatCount="indefinite" begin=".75" additive="sum"/>
--->
   </use>
+</g>
 </g>
 
 </svg>

@@ -282,8 +282,12 @@
 <clipPath id="number-clip">
   <polygon fill="#FFFFFF" points="162.1,0 162.1,59.2 162.1,63.4 230.9,63.4 230.9,59.2 230.9,59.2 230.9,0 "/>
 </clipPath>
+<clipPath id="canvas">
+  <polygon points="550,309 0,309 0,0 550,0 "/>
+</clipPath>
 </defs>
 <!--Walk It Off -->
+<g id="4-walkoff" clip-path="url(#canvas)">
 <use xlink:href="#bg"/>
 <g id="jumbotron" transform="translate(420,200)">
 <g transform="translate(-420,-170)">
@@ -304,9 +308,6 @@
         </use>
       </g>
     </g>
-
-
-
   </g>
   <g transform="translate(194,139)">
     <use xlink:href="#No2"/>
@@ -335,4 +336,5 @@
   <set attributeName="visibility" from="hidden" to="visible" begin="slideguest.end+1" />
   <animate id="flashlight" attributeName="opacity" values="0;.5;1;.9;.8;.7;.6;.5;.4;.3;.2;.1;0" dur="1.5s" repeatCount="0" begin="slideguest.end+1" fill="freeze"/>
 </use>
+</g>
 </svg>

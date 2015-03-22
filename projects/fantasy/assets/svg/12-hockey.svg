@@ -122,9 +122,12 @@
 <polygon id="star1" fill="#FFFFFF" points="18.3,19 30.8,16.4 18.4,13.2 15.8,0 12.5,13 0,15.6 12.4,18.8 15,32"/>
 <polygon id="star2" fill="#FFFFFF" points="13.9,14.4 23.4,12.5 14,10 12,0 9.5,9.9 0,11.9 9.4,14.3 11.4,24.4"/>
 <polygon id="star3" fill="#FFFFFF" points="9.2,9.5 15.4,8.2 9.2,6.6 7.9,0 6.3,6.5 0,7.8 6.2,9.4 7.5,16.1"/>
-
+<clipPath id="canvas">
+  <polygon points="550,309 0,309 0,0 550,0 "/>
+</clipPath>
 </defs>
 <!-- Hockey -->
+<g id="12-hockey" clip-path="url(#canvas)">
 <use xlink:href="#bg" />
 
 <g id="pouring">
@@ -197,5 +200,6 @@
     <animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 7.7 8;360 7.7 8" repeatCount="0" begin="fadestar2.end-.25"/>
     <animate id="fadestar3" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" fill="freeze" begin="fadestar2.end-.25"/>
   </use>
+</g>
 </g>
 </svg>

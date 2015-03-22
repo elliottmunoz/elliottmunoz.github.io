@@ -168,8 +168,12 @@
 <g id="star1">
   <polygon fill="#FFFFFF" points="13.7,14.1 23,12 13.7,9.8 11.5,0 9.3,9.8 0,11.9 9.3,14.1 11.5,23.9   "/>
 </g>
+<clipPath id="canvas">
+  <polygon points="550,309 0,309 0,0 550,0 "/>
+</clipPath>
 </defs>
 <!-- Football -->
+<g id="13-football" clip-path="url(#canvas)">
 <use xlink:href="#bg" />
 <g transform="translate(98,101)">
   <use xlink:href="#left-stadium-light">
@@ -225,5 +229,6 @@
     <animateTransform attributeName="transform" type="rotate" dur=".6s" values="0 6.2 6.45;360 6.2 6.45" repeatCount="0" begin="fadestar3.end-.25"/>
     <animate id="fadestar4" attributeName="opacity" values="0;1;0" dur=".6s" repeatCount="0" fill="freeze" begin="fadestar3.end-.25"/>
   </use>
+</g>
 </g>
 </svg>
