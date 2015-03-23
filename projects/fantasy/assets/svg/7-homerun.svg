@@ -81,7 +81,7 @@
     <set attributeName="visibility" from="hidden" to="visible" begin="pitch2.end" />
     <animateTransform id="pitch3" attributeName="transform" type="translate" dur=".31s" fill="remove" values="196,72;-22,-72" repeatCount="0" begin="pitch2.end"/>
   </use>
-  <circle cx="22" cy="22" r="22" stroke="#0e1741" fill="#0e1741" />
+  <circle cx="22" cy="22" r="22" stroke="#0e1741" stroke-width="2" fill="#0e1741" />
 </g>
 </g>
 </svg>
