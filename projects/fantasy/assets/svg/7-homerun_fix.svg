@@ -40,8 +40,12 @@
 	<path fill="#FFFFFF" d="M105.7,47c0,0-46.4-43.3-104.8-9.8l0-23.4C0.9,13.8,59.1-0.7,105.7,47z M0.7,51.7l0.2,9.5
 		c0,0,18-17.6,43-21.8C43.8,39.3,23.9,37.2,0.7,51.7z"/>
 </g>
+<clipPath id="canvas">
+  <polygon points="550,309 0,309 0,0 550,0 "/>
+</clipPath>
 </defs>
 <!-- Hot Streak -->
+<g id="7-homerun" clip-path="url(#canvas)">
 <use xlink:href="#bg" />
 <g transform="translate(287,101)">
   <use xlink:href="#blast" x="-156" y="-70" opacity="0">
@@ -103,6 +107,7 @@
         repeatCount="indefinite"
     />
 </use>
+</g>
 </g>
 </g>
 </svg>
