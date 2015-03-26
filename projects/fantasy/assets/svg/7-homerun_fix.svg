@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 550 309" enable-background="new 0 0 550 309" xml:space="preserve">
+<defs>
+<rect id="bg" x="0" y="0" height="309" width="550" fill="#0e1741" />
+<polygon id="blast" fill="#13B3E8" points="112.6,0 81.8,46.4 17.3,10 54.7,78.1 25.8,91.6 58.7,102.9 0,140.4 109.3,124.9 131.9,85.1 "/>
+<g id="baseball">
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M42.5,21.1c0-1.5-0.2-3.1-0.5-4.6C40.3,9.3,35.2,3.8,28.7,1.4c-0.1,1.7,0.1,3.5,0.5,5.2
+				C30.8,13.7,36,19,42.5,21.1z"/>
+			<path fill="#FFFFFF" d="M26.1,7.3c-0.5-2.3-0.7-4.6-0.5-6.8c-2.9-0.6-6-0.6-9.1,0.1c-4.2,1-7.8,3.1-10.5,6c0,0,0,0,0-0.1
+				C5.8,6.6,5.7,6.9,5.5,7.1C5.2,7.4,5,7.6,4.7,7.9C4.4,8.3,4.1,8.7,3.8,9.2C3.7,9.3,3.6,9.5,3.5,9.6c-0.3,0.5-0.7,1-0.9,1.5
+				c-0.6,1.1-1.1,2.3-1.5,3.5c-1.2,3.5-1.4,7.4-0.5,11.3C3,36.8,13.4,43.7,24.2,42.2c0.6-0.1,1.2-0.2,1.8-0.3c0.7-0.2,1.3-0.3,2-0.6
+				c0,0,0,0,0,0c0,0,0,0,0,0.1c3.4-1.1,6.3-3.1,8.7-5.6c0,0,0.1-0.1,0.1-0.1c0.6-0.6,1.1-1.2,1.6-1.9c0,0,0.1-0.1,0.1-0.1
+				c0.5-0.7,0.9-1.3,1.3-2c0,0,0-0.1,0.1-0.1c1.2-2.2,2.1-4.7,2.5-7.2C34.5,22.1,28.1,15.8,26.1,7.3z"/>
+		</g>
+		<g>
+			<path fill="#E83D3D" d="M2.3,11.1c-0.6,1.1-1.2,2.4-1.6,3.6c0.2,0,0.7-0.2,0.9-0.2c10.7-2.4,21.5,4.3,23.9,15
+				c1,4.5,0.4,8.9-1.3,12.7c0.6-0.1,1.2-0.2,1.8-0.3c0.7-0.2,1.3-0.3,2-0.6c1.3-3.9,1.7-8.3,0.7-12.6C25.9,16.9,14.2,9.3,2.3,11.1z"
+				/>
+			<path fill="#E83D3D" d="M29.2,6.6c-0.4-1.8-0.5-3.5-0.5-5.2c-1-0.4-2.1-0.7-3.1-0.9c-0.2,2.2,0,4.5,0.5,6.8
+				c1.9,8.5,8.3,14.8,16.1,17c0.2-1.1,0.2-2.1,0.2-3.2C36,19,30.8,13.7,29.2,6.6z"/>
+		</g>
+	</g>
+  <animateTransform attributeName="transform" type="rotate" dur="2s" values="0 21.245 21.2115;220 21.245 21.2115;360 21.245 21.2115" repeatCount="indefinite" fill="freeze" begin="0" additive="sum"/>
+</g>
+<g id="bat">
+  <path fill="#FECF0C" d="M19.1,259.7c-0.2-5.1-0.8-10.7-0.4-16l-9.5,2.4L9.3,263c-2.3,0.3-5.2,2.2-5.1,4.6c0,2.6,2.1,4.6,4.7,4.6
+		l7.5-0.1C15.9,268,19.2,263.9,19.1,259.7z"/>
+	<path fill="#FECF0C" d="M0,10.6c0.1,5.1,0.6,47.7,0.9,84.1C1.2,124.3,8,140.8,9,191.7l8.4,1.4L15.9,0C5.5,0.3,0,5.6,0,10.6z"/>
+	<polygon fill="#FFFFFF" points="8.9,185.4 9.2,246.1 18.6,245.8 16.9,184.6 	"/>
+	<path fill="#B68D2E" d="M16.5,0c-0.2,0-0.4,0-0.6,0l0.7,193.4l-0.7,54.1l0.6,24.6c0,0,2.1,0,5,0c2.9,0,7.8,0.4,8.1-4.4
+		c0.2-4.8-4.6-6.6-4.6-6.6l0.3-66.7c1.6-53.6,9.3-70,9-100.2c-0.4-36.4-0.9-78.9-0.9-84.1C33.2,5.1,27.3-0.1,16.5,0z"/>
+	<polygon fill="#13B3E8" points="16.5,184.6 15.9,245.9 24.9,245.4 25.6,183.8 	"/>
+</g>
+<g id="flame">
+	<path fill="#E83E3D" d="M135,95.6c0,0-33.1-86.9-134.2-11.6L1,1.6C1,1.6,118.5-19.9,135,95.6z M1.7,95.8L0,115.7
+		c69.4-59.8,98-37.1,98-37.1C63.1,49.9,1.7,95.8,1.7,95.8z"/>
+	<path fill="#FFFFFF" d="M105.7,47c0,0-46.4-43.3-104.8-9.8l0-23.4C0.9,13.8,59.1-0.7,105.7,47z M0.7,51.7l0.2,9.5
+		c0,0,18-17.6,43-21.8C43.8,39.3,23.9,37.2,0.7,51.7z"/>
+</g>
+</defs>
+<!-- Hot Streak -->
+<use xlink:href="#bg" />
+<g transform="translate(287,101)">
+  <use xlink:href="#blast" x="-156" y="-70" opacity="0">
+  	<animate attributeName="opacity" values="1;1;0;0" dur="2.75s" repeatCount="0" fill="freeze" begin="swing1.begin+.2"/>
+  <animateTransform id="explode" attributeType="xml" attributeName="transform" type="scale" values=".0 .0;.2 .2;.4 .4;.6 .6;.8 .8;1 1;1 1;" dur="2.75" fill="remove" repeatCount="0" begin="swing1.begin+.2" additive="sum"/>
+  </use>
+</g>
+<g transform="translate(150,-8) rotate(137 15 272)">
+  <g>
+  <use xlink:href="#bat"/>
+  <use xlink:href="#flame" x="26" y="25">
+    <animate attributeName="opacity" values="1;0" dur=".6s" repeatCount="0" fill="freeze" begin="swing2.begin+.75"/>
+    <set attributeName="opacity" to="1" begin="swing4.begin" />
+  </use>
+  <animateTransform id="swing1" attributeName="transform" type="rotate" dur=".2s" values="0 15 272;-96 15 272" repeatCount="0" begin="0s;swing4.end"/>
+  <animateTransform id="swing2" attributeName="transform" type="rotate" dur="2.1s" values="-96 15 272;-105 15 272" repeatCount="0" begin="swing1.end"/>
+  <animateTransform id="swing3" attributeName="transform" type="rotate" dur=".15s" values="-105 15 272;-320 15 272" repeatCount="0" begin="swing2.end"/>
+  <animateTransform id="swing4" attributeName="transform" type="rotate" dur=".5s" values="-320 15 272;-360 15 272" repeatCount="0" begin="swing3.end"/>
+  </g>
+</g>
+<g opacity="1" transform="translate(147,-44)">
+  <g>
+  <use xlink:href="#baseball">
+
+  <animate id="pitch_x"
+        attributeName="x"
+        from="127"
+        to="127"
+        begin="0s"
+        dur="2.95s"
+        values="0;84;59;49;-125;0"
+        keySplines="
+            0.1 0.33 0.66 1;
+            0.1 0.33 0.66 1;
+            0.1 0.33 0.66 1;
+            0.1 0.33 0.66 1;
+            0.1 0.33 0.66 1"
+        keyTimes="
+            0;0.10;0.60;0.60;0.74;1"
+        calcMode="spline"
+        repeatCount="indefinite"
+    />
+  <animate id="pitch_y"
+        attributeName="y"
+        from="127"
+        to="127"
+        begin="0s"
+        dur="2.95s"
+        values="0;138;123.82;116;-28;0"
+        keySplines="
+            0.1 0.33 0.66 1;
+            0.1 0.33 0.66 1;
+            0.1 0.33 0.66 1;
+            0.1 0.33 0.66 1;
+            0.1 0.33 0.66 1"
+        keyTimes="
+            0;0.10;0.60;0.60;0.74;1"
+        calcMode="spline"
+        repeatCount="indefinite"
+    />
+</use>
+</g>
+</g>
+</svg>
