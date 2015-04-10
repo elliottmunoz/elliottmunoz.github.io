@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="_x31_-fistbump" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 180 180" enable-background="new 0 0 180 180" xml:space="preserve">
+<g>
+	<rect x="41.4" y="25.8" fill="#B68D2E" width="4.7" height="128.3"/>
+	<rect x="133.9" y="25.8" fill="#B68D2E" width="4.7" height="128.3"/>
+	<rect x="87.6" y="25.8" fill="#B68D2E" width="4.7" height="128.3"/>
+	<g>
+		<polygon fill="#B68D2E" points="147.7,41.3 32.3,41.3 23.9,49.7 23.9,108.2 32.3,116.6 147.7,116.6 156.1,108.2 156.1,49.7 		"/>
+		<polygon fill="#FECF0C" points="147.7,36.2 32.3,36.2 23.9,44.6 23.9,103.1 32.3,111.5 147.7,111.5 156.1,103.1 156.1,44.6 		"/>
+		<polygon opacity="0.33" fill="#FFFFFF" points="147.7,36.2 102.2,36.2 26.9,106.1 32.3,111.5 103.5,111.5 156.1,64.5 156.1,44.6 
+					"/>
+	</g>
+	<text transform="matrix(1 0 0 1 35.1987 61.8315)" fill="#B68D2E" font-family="'AkzidenzGroteskBE-BoldCn'" font-size="13.9296">GUEST</text>
+	<text transform="matrix(1 0 0 1 114.3339 61.8315)" fill="#B68D2E" font-family="'AkzidenzGroteskBE-BoldCn'" font-size="13.9296">HOME</text>
+	<text transform="matrix(1 0 0 1 81.0927 66.3579)" fill="#B68D2E" font-family="'AkzidenzGroteskBE-BoldCn'" font-size="13.9296">INN</text>
+	<g>
+		<rect x="36" y="67.9" fill="#121841" width="32.1" height="27.7"/>
+		<rect x="111.9" y="67.9" fill="#121841" width="32.2" height="27.7"/>
+		<text transform="matrix(1 0 0 1 51.9093 91.6904)" fill="#13B3E8" font-family="'DigitalCounter7'" font-size="25.5742">2</text>
+		<text transform="matrix(1 0 0 1 127.923 91.6904)" fill="#13B3E8" font-family="'DigitalCounter7'" font-size="25.5742">3</text>
+		<rect x="79.9" y="73" fill="#121841" width="20.3" height="27.7"/>
+		<text transform="matrix(1 0 0 1 84.1171 96.7705)" fill="#13B3E8" font-family="'DigitalCounter7'" font-size="25.5742">9</text>
+	</g>
+</g>
+</svg>
