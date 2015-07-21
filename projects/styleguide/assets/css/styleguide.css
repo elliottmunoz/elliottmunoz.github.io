@@ -1,0 +1,170 @@
+@font-face {
+  font-family: "Gibson";
+  font-style: normal;
+  font-weight: normal;
+  src: url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2) format("woff2"), url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/assets/gibson-light-c38be3fac8c6faa83ce6782eb03dc25a.woff) format("woff")
+}
+
+@font-face {
+  font-family: "Gibson";
+  font-style: normal;
+  font-weight: bold;
+  src: url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/assets/gibson-semibold-bd40613b613c49f2c8e5272ea39b65a8.woff2) format("woff2"), url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/assets/gibson-semibold-8cb5d57581c57700112390578b26d9e9.woff) format("woff")
+}
+
+@font-face {
+  font-family: "Calendas Plus";
+  font-style: normal;
+  font-weight: normal;
+  src: url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/calendas-plus-regular.woff2) format("woff2"), url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/calendas-plus-regular.woff) format("woff")
+}
+
+@font-face {
+  font-family: "Range Mono";
+  font-style: normal;
+  font-weight: normal;
+  src: url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/assets/range-mono-regular-ba84fe9836aa6eae2fe720a7f81c40fa.woff2) format("woff2"), url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/assets/range-mono-regular-6459dfbee267e70b095fcebb1c81dcb5.woff) format("woff")
+}
+
+body {
+  color: #3a2934;
+  font: 1em Gibson, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #2084b8;
+  text-decoration: none;
+}
+
+nav {
+  display: block;
+  position: fixed;
+  width: 15%;
+}
+
+main {
+  position: relative;
+  left: 15%;
+  width: 85%;
+}
+
+figcaption {
+  color: #8e9299;
+  font: normal 0.75em Range Mono, monospace;
+  padding: 8px 0;
+}
+
+h2 {
+  color: #8e9299;
+  font-weight: 100;
+  margin: 50px 0;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+.color {}
+
+.color__item {
+  background: #F4F4F4;
+  border-radius: 3px;
+  display: inline-block;
+  height: 100px;
+  list-style: none;
+  margin: 10px;
+  padding: 0px;
+  position: relative;
+  width: 100px;
+}
+
+.color__item__label {
+  background: white;
+  border-radius: 2px;
+  display: inline;
+  font: normal 0.6em Range Mono, monospace;
+  margin: 0 5px;
+  padding: 3px 5px;
+  position: absolute;
+  bottom: 5px;
+}
+
+.berry {
+  background: #b52b4a;
+}
+
+.orange {
+  background: #de6628;
+}
+
+.yellow {
+  background: #fdbd18;
+}
+
+.spumoni {
+  background: #b4ce7d;
+}
+
+.green {
+  background: #5e9b42;
+}
+
+.green {
+  background: #5e9b42;
+}
+
+.teal {
+  background: #105c58;
+}
+
+.blue {
+  background: #2084b8;
+}
+
+.navy {
+  background: #171e2c;
+}
+
+.plum {
+  background: #3a2934;
+}
+
+.nav {
+  padding: 50px 0 0;
+}
+
+.nav__item {
+  font-weight: 100;
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav__item__link {
+  color: #8e9299;
+  display: block;
+  padding: 15px 25px;
+}
+
+.font-demo {
+  display: block;
+  font-size: 5em;
+  padding: 10px 0;
+}
+
+.calendas {
+  font-family: Calendas Plus;
+}
+
+.gibson {
+  font-family: Gibson;
+  font-weight: 100;
+}
+
+.range-mono {
+  font-family: "Range Mono";
+  font-weight: 100;
+}
