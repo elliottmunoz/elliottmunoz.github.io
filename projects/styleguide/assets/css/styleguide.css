@@ -1,29 +1,58 @@
 @font-face {
-  font-family: "Gibson";
-  font-style: normal;
-  font-weight: normal;
-  src: url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2) format("woff2"), url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/assets/gibson-light-c38be3fac8c6faa83ce6782eb03dc25a.woff) format("woff")
+    font-family: 'Gibson';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/gibson_light/Gibson-Light-webfont.eot');
+    src: url('../fonts/gibson_light/Gibson-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/gibson_light/Gibson-Light-webfont.woff2') format('woff2'),
+         url('../fonts/gibson_light/Gibson-Light-webfont.woff') format('woff'),
+         url('../fonts/gibson_light/Gibson-Light-webfont.ttf') format('truetype'),
+         url('../fonts/gibson_light/Gibson-Light-webfont.svg#gibsonlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-  font-family: "Gibson";
-  font-style: normal;
-  font-weight: bold;
-  src: url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/assets/gibson-semibold-bd40613b613c49f2c8e5272ea39b65a8.woff2) format("woff2"), url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/assets/gibson-semibold-8cb5d57581c57700112390578b26d9e9.woff) format("woff")
+    font-family: 'Gibson';
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/gibson_semibold/Gibson-SemiBold-webfont.eot');
+    src: url('../fonts/gibson_semibold/Gibson-SemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/gibson_semibold/Gibson-SemiBold-webfont.woff2') format('woff2'),
+         url('../fonts/gibson_semibold/Gibson-SemiBold-webfont.woff') format('woff'),
+         url('../fonts/gibson_semibold/Gibson-SemiBold-webfont.ttf') format('truetype'),
+         url('../fonts/gibson_semibold/Gibson-SemiBold-webfont.svg#gibsonsemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 @font-face {
-  font-family: "Calendas Plus";
-  font-style: normal;
-  font-weight: normal;
-  src: url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/calendas-plus-regular.woff2) format("woff2"), url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/calendas-plus-regular.woff) format("woff")
+    font-family: 'Calendas Plus';
+    src: url('../fonts/calendas_plus/calendas_plus-webfont.eot');
+    src: url('../fonts/calendas_plus/calendas_plus-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/calendas_plus/calendas_plus-webfont.woff2') format('woff2'),
+         url('../fonts/calendas_plus/calendas_plus-webfont.woff') format('woff'),
+         url('../fonts/calendas_plus/calendas_plus-webfont.ttf') format('truetype'),
+         url('../fonts/calendas_plus/calendas_plus-webfont.svg#calendas_plusregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 @font-face {
-  font-family: "Range Mono";
-  font-style: normal;
-  font-weight: normal;
-  src: url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/assets/range-mono-regular-ba84fe9836aa6eae2fe720a7f81c40fa.woff2) format("woff2"), url(http://nthp.vigetx.com/assets/gibson-light-80499b77afc3b8ea757beb6567ba0aa6.woff2/assets/range-mono-regular-6459dfbee267e70b095fcebb1c81dcb5.woff) format("woff")
+    font-family: 'Range Mono';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/range_mono/range-mono-regular-webfont.eot');
+    src: url('../fonts/range_mono/range-mono-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/range_mono/range-mono-regular-webfont.woff2') format('woff2'),
+         url('../fonts/range_mono/range-mono-regular-webfont.woff') format('woff'),
+         url('../fonts/range_mono/range-mono-regular-webfont.ttf') format('truetype'),
+         url('../fonts/range_mono/range-mono-regular-webfont.svg#range_monoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 body {
