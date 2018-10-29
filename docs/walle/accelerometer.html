@@ -41,11 +41,10 @@ var sphere = document.getElementById("sphere");
 
 if (window.DeviceMotionEvent != undefined) {
 	window.ondevicemotion = function(e) {
-		ax = event.accelerationIncludingGravity.x * 5;
-		ay = event.accelerationIncludingGravity.y * 5;
-		document.getElementById("accelerationX").innerHTML = e.accelerationIncludingGravity.x;
-		document.getElementById("accelerationY").innerHTML = e.accelerationIncludingGravity.y;
-		document.getElementById("accelerationZ").innerHTML = e.accelerationIncludingGravity.z;
+		ax = event.accelerationIncludingGravity.x;
+		ay = event.accelerationIncludingGravity.y;
+		document.getElementById("accelerationX").innerHTML = ax;
+		document.getElementById("accelerationY").innerHTML = ay;
     /*
 		if ( e.rotationRate ) {
 			document.getElementById("rotationAlpha").innerHTML = e.rotationRate.alpha;
