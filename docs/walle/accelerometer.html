@@ -27,9 +27,6 @@ body {
 	<li>acceleration x: <span id="accelerationX"></span>g</li>
 	<li>acceleration y: <span id="accelerationY"></span>g</li>
 	<li>acceleration z: <span id="accelerationZ"></span>g</li>
-	<li>rotation alpha: <span id="rotationAlpha"></span>degree</li>
-	<li>rotation beta: <span id="rotationBeta"></span>degree</li>
-	<li>rotation gamma: <span id="rotationGamma"></span>degree</li>
 </ul>
 
 test: <span id="test"></span>
@@ -49,14 +46,15 @@ if (window.DeviceMotionEvent != undefined) {
 		document.getElementById("accelerationX").innerHTML = e.accelerationIncludingGravity.x;
 		document.getElementById("accelerationY").innerHTML = e.accelerationIncludingGravity.y;
 		document.getElementById("accelerationZ").innerHTML = e.accelerationIncludingGravity.z;
-
+    /*
 		if ( e.rotationRate ) {
 			document.getElementById("rotationAlpha").innerHTML = e.rotationRate.alpha;
 			document.getElementById("rotationBeta").innerHTML = e.rotationRate.beta;
 			document.getElementById("rotationGamma").innerHTML = e.rotationRate.gamma;
 		}
+		*/
 	}
-
+  /*
 	setInterval( function() {
 		var landscapeOrientation = window.innerWidth/window.innerHeight > 1;
 		if ( landscapeOrientation) {
@@ -77,9 +75,10 @@ if (window.DeviceMotionEvent != undefined) {
 		sphere.style.left = x + "px";
 
 	}, 25);
+	*/
 }
 
-
+/*
 function boundingBoxCheck(){
 	if (x<0) { x = 0; vx = -vx; }
 	if (y<0) { y = 0; vy = -vy; }
@@ -87,6 +86,7 @@ function boundingBoxCheck(){
 	//if (y>document.documentElement.clientHeight-20) { y = document.documentElement.clientHeight-20; vy = -vy; }
 
 }
+*/
 
 </script>
 
